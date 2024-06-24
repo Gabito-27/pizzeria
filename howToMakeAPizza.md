@@ -1,11 +1,9 @@
-1.Ordenar los ingredientes
-2.Preparar la salsa de tomate
-3.Prepara la masa para la pizza
-4.Darle una forma a la masa para pizza
-5.Agregar la salsa de tomate en la masa para la pizza
-6.Agregar queso 
-7.Agregar peperoni
-8.Meter la pizza al horno
-9.Dejar que la pizza se cocine
-10.Sacar la pizza
-11.Disfritar
+1. Pesar los ingredientes en las cantidades correctas
+2. Realizar el mise en place
+3. Comenzar con una pileta hecha con harina, agua y sal
+4. mezclar hasta que se incorpore toda la harina 
+5. Amazar la mezcla obtenida 
+6. Agregar salsa de tomate
+7. Agregar queso
+8. Agregar ingredientes a gusto propio
+9. Hornear hasta que este lista
