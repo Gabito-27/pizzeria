@@ -1,15 +1,15 @@
-1) comprar la harina, elevadura,pasta de tomate,queso, huevos, leche y aceite
-2) poner la harian en un racipient 
-3) echar en la harina 2 huevos
-4) hechar en larina elaveadura 
-5) hechar todo lo demas
-6) vatir la harina hata tener la textura ideal 
-7) hechar en una mes 2 tasa de harina 
-8) moldear la masa ensima de la harina 
-9) luego hacer la figura con la masa (un circulo)
-10) hecharle pasta de tomate
-11) luego ponerle queso (lo que desee)
-12) luego ponerle lo que desee (peperoni, jamon o carne)
-13) luego ponerlo en el horno y ponerles 30°
-14) sacarlos y ponerlo en un plato
-15) luego partilo y listoooooooooos|
+1. Comprar ingredientes: Harina, Huevos, Leche, Tomates, Queso, Pepperoni, Levadura, Mantequilla y Especias 
+2. Colocar la en el recipiente para hacer la Pizza
+3. Agregar los huevos y la leche a la harina
+4. Agregar la la levadura y mantquilla a la mezcla
+5. Compactar a la mezcla y dejar reposar por 30 min
+6. Ya con la mezcla repozada moldear y darle forma de circulo  
+7. Si la mezcla es muy pegajoa aplicarse harina en las manos y en el lograr donde la moldeara 
+8. Darle la forma deseada y el tamaño con ayuda de utencilios de cocina
+9. Aplicar la salsa de Tomate
+10. Agragar el quejo parmesano
+11. Decorar con los ingredientes a utilizare 
+12. Luego agregarle lo que desee (peperoni, jamon o carne)
+13. Luego pre-calentar el horno 30°
+14. Dejarlo orneando por 15 min y luego deje que se enfrie un poco
+15. Y listo para degustarlo
